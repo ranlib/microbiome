@@ -1,0 +1,6 @@
+on raw data:
+1) seqkit_stats
+2) fastqc
+3) fastp
+4) cleanifier (human contribution, run on results from fastp)
+5) centrifuge (should be on results of fastp)
